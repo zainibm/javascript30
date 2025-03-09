@@ -9,3 +9,4 @@ A month long JavaScript coding challenge via [JavaScript30](https://javascript30
 - <a href="./flex panels image gallery/">Flex Panels Image Gallery</a> <br>
 - <a href="./type ahead/">Type Ahead</a> <br>
 - <a href="./array cardio day 2/">Array Cardio Day 2</a> <br>
+- <a href="./html5 canvas/">HTML5 Canvas</a> <br>
